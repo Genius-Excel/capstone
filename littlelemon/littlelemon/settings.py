@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'restaurant',
         'USER' : 'root',
         'HOST' : '127.0.0.1',
-        'PASSWORD' : 'nogeniuslikeme100%!'
+        'PASSWORD' : ''
     }
 }
 
